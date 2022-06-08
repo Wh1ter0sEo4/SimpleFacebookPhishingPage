@@ -44,7 +44,7 @@ If the language you're looking for isn't availble, creating new language is as e
 {
 	"title": "Facebook – log in or sign up", 
 	"motd": "Facebook helps you connect and share with the people in your life.",
-	"email": "Email address or phone number"	,
+	"email": "Email address or phone number",
 	"password": "Password",
 	"login": "Log In",
 	"forgot": "Forgotten password?",
