@@ -4,6 +4,8 @@ Quickly fire up a Web Server written in Python(Flask) and phish for your faceboo
 
 [![DemoPage](https://raw.githubusercontent.com/Wh1ter0sEo4/SimpleFacebookPhishingPage/demo/demo.png)](https://wh1ter0seo4.github.io/SimpleFacebookPhishingPage/demo/)
 
+Click [![DemoPageLink]Here](https://wh1ter0seo4.github.io/SimpleFacebookPhishingPage/demo/) to see a demo.
+
 ## Features
 
 - Multi-Lang Support.
