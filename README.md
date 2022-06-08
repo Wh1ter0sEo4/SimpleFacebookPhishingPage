@@ -80,3 +80,5 @@ python3 main.py
 ```
 
 Once all steps are done and no errors are shown, you can head over to http://localhost if you're hosting it locally or your remote machine's IP/Domain.
+
+DO NOT USE THIS TOOL TO FARM ACTUAL LOGGING CREDENTIALS, IT'S MADE STRICTLY FOR EDUCATIONAL & EXPERIMENTAL REASONS. I, THE CREATOR OF THIS TOOL, AM NOT RESPONSABLE FOR ANY DAMAGE YOU MAY CAUSE.
