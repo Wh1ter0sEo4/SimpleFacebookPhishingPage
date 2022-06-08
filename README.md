@@ -60,3 +60,23 @@ then refer to the lang code in the config file.
 	 "redirect_url": "http://example.com"
 }
 ```
+
+## Installation (Linux 4.9+)
+
+This framework requires [Python](https://www.python.org/) v3+ to run.
+
+Git clone the current github page and install all the dependencies.
+
+```sh
+git clone https://github.com/Wh1ter0sEo4/SimpleFacebookPhishingPage
+cd SimpleFacebookPhishingPage
+pip3 install waitress flask colorama
+```
+
+## Usage (Linux 4.9+)
+
+```sh
+python3 main.py
+```
+
+Once all steps are done and no errors are shown, you can head over to http://localhost if you're hosting it locally or your remote machine's IP/Domain.
