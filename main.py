@@ -5,7 +5,7 @@ try:
     from flask import Flask, render_template, send_file, request, redirect, url_for, Response
     from colorama import Fore, Style
 except:
-    print("""Missing Modules, run "pip3 install -r requirements.txt"\nIf pip doesn't exist then install it through your package manager [python3-pip].""")
+    print("""Missing Modules, run "pip3 install -r requirements.txt (check github)"\nIf pip doesn't exist then install it through your package manager [python3-pip].""")
     exit(0)
 
 DEBUG = False # If set to true, the port will be set to 8080. Otherwise to 80.
