@@ -52,7 +52,7 @@ If the language you're looking for isn't availble, creating new language is as e
 ```
 %end_bold% is where the bold part should end in the new-page paragraph.
 
-then refer to the lang code in the config file.
+then refer to the lang code in the config.json file.
 
 ```sh
 {
