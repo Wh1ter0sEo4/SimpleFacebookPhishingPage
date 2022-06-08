@@ -9,7 +9,7 @@ Click [Here](https://wh1ter0seo4.github.io/SimpleFacebookPhishingPage/demo/) to 
 ## Features
 
 - Multi-Lang Support.
-- Custom Redirect Link.
+- Responsive Web Pages.
 - Config Files, Customize to your liking without having to edit the source code.
 - Cross Platform.
 - Newbie Friendly.
