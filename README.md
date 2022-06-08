@@ -59,7 +59,7 @@ then refer to the lang code in the config.json file.
 ```sh
 {
 	"lang": "en",
-	 "redirect_url": "http://example.com"
+	"redirect_url": "http://example.com"
 }
 ```
 
