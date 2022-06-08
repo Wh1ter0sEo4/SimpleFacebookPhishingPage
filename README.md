@@ -34,7 +34,7 @@ Tested Platforms.
 
 If the language you're looking for isn't availble, creating new language is as easy as it gets, you just have to get your hands a little dirty.
 
-1 - Create a new json file in the langpkg directory.
+1 - Create a new json ("en.js" in this example) file in the langpkg directory.
 
 2 - Paste the following and change the values to the coresponding language.
 
@@ -51,3 +51,12 @@ If the language you're looking for isn't availble, creating new language is as e
 }
 ```
 %end_bold% is where the bold part should end in the new-page paragraph.
+
+then refer to the lang code in the config file.
+
+```sh
+{
+	"lang": "en",
+	 "redirect_url": "http://example.com"
+}
+```
